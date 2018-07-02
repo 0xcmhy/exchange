@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: exchange
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: zhangwei
+Implementation-Vendor-Id: com.ibm
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/exchange
+Created-By: Maven Integration for Eclipse
+
